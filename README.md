@@ -15,8 +15,6 @@ para 395 estudiantes, con 10 variables en total. Los datos se descargaron del St
 Performance Data Set en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance), y podrás encontrar más
 información sobre los mismos en el siguiente [enlace](http://www3.dsi.uminho.pt/pcortez/student.pdf).
 
-[Decision Support Systems](https://linkinghub.elsevier.com/retrieve/pii/S0167923609001377).
-
 <a href="././A1.5%20611471.ipynb" download>Reporte en formato ipynb</a>  
 
 [Reporte en formato html](./A1.5%20611471.html) 
